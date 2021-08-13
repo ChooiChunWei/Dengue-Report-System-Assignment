@@ -7,3 +7,4 @@ This desktop application displays the statistic of dengue cases from 2014 to 201
 
 ## Remark
 This is a NetBeans Project, please open this project in NetBeans IDE and run with JDK 11.0.10.
+It is suggested to clean and rebuild after open the project in NetBeans IDE.
